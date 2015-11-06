@@ -32,7 +32,7 @@ This will print: `Hello, World!`, the text value defined by the string literal.
 
 ### String Formatting (Interpolation)
 
-The `NSLog()` function actually accepts what is called a "format string". The `@"Hello, World!"` string is simply interpreted it as a format string without any formatting to be performed.
+The `NSLog()` function actually accepts what is called a "format string". The `@"Hello, World!"` string is simply interpreted as a format string without any formatting to be performed.
 
 String formatting (or "interpolation") is the process of assembling a string from other values or variables. If you've ever written (or received) a form letter, it is this process at work: defining a template letter with placeholders for fields to be filled in with specific information at a later time.
 
